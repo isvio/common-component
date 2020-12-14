@@ -3,7 +3,7 @@
   }
   
   footer {
-    background: url('http://i.imgur.com/f4jGhSF.png') repeat center;
+    background-color: #efefef;;
     display: table;
     width: 100vw;
     height: 8rem;
@@ -21,7 +21,7 @@
   }
   
   footer small {
-    color: #ccc;
+    color: #424242;
     letter-spacing: .025rem;
     margin-bottom: 1.5rem;
     display: block;
